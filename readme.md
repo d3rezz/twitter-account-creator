@@ -6,12 +6,12 @@ Wrote this for winning a voting competition between portuguese Universities orga
 
 ## Competition 
 The competition allowed voting through Facebook, Twitter or email.
-Automatically creating accounts with Facebook proved though as they required inputing a phone number. For creating accounts with Twitter, no phone number was required, but a captcha had to be sovled, preventing multiple accounts to be created quickly.
+Automatically creating accounts with Facebook proved tough as they required inputing a phone number. For creating accounts with Twitter, no phone number was required, but a captcha had to be sovled, preventing multiple accounts to be created quickly.
 
-I remembered from another write up I had read, that Twitter still had an old mobile http version of the website http://mobile.twitter.com/signup (think WAP era) with no JS or captchas which proved very easy to crawl. After writing the script to automatically create the Rwitter accounts createaccount.py, another script was created to log in the competition website and vote. The competition did not require the Twitter accounts to verify their email so this simplified the account creation a lot.
+I remembered from another write up I had read, that Twitter still had an old mobile http version of the website http://mobile.twitter.com/signup (think WAP era) with no JS or captchas which proved very easy to crawl. After writing the script to automatically create the accounts createaccount.py, another script was created to log in the competition website and vote. The competition did not require the Twitter accounts to verify their email so this simplified the account creation a lot.
 The mobile endpoint has since been updated.
 
-Other alternatives would have included creating temporary email accounts as services such as yopmail, 10minutemail ... which were not blacklisted from voting in the competition. 
+Other alternatives would have included creating temporary email accounts with services such as yopmail, 10minutemail ... which were not blacklisted from voting in the competition. 
 
 
 ## Future improvements
