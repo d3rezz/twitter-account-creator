@@ -1,7 +1,7 @@
 # Twitter Account Creator - old (2014)
 Script for creating Twitter accounts using an old mobile http only endpoint without need to enter captchas (2014). This endpoint has since been updated and no this script no longer works.
 
-Wrote this for winning a voting competition between portuguese Universities organized by Red Bull. I quickly put this together in python with the mechanize scraping module for easily navigating the Twitter website.
+Wrote this for winning a voting competition between portuguese Universities organized by Red Bull back in 2014. I quickly put this together in python with the mechanize scraping module for easily navigating the Twitter website.
 
 
 ## Competition 
