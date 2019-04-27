@@ -16,7 +16,7 @@ Other alternatives would have included creating temporary email accounts as serv
 
 ## Future improvements
 
-Possible improvements at the time would have been:
+Although this proved enough for us to win, possible improvements at the time would have been:
 
 - Coming up with real First and Last names by randomly sampling from a list of names and then taking the first suggestion for the username from Twitter. In case the competition judges wanted to investigate the votes coming from this bot, this would make it much harder than having all bot usernames start with the same prefix;
 - spawn multiple processes (ie. python's multiprocess module) instead of manually running the script many times;
